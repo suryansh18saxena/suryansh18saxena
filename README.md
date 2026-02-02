@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Full-Stack Developer • Cloud Learner • Open-Source Enthusiast
+  Full-Stack Developer • Cloud Learner 
 </h3>
 
 <p align="center">
@@ -45,22 +45,10 @@
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryansh18saxena&show_icons=true&theme=transparent&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansh18saxena&layout=compact&theme=transparent&hide_border=true" height="160"/>
-</p>
-
----
-
 ## Connect
 
 - Email → *Suryanshsaxena80@gmail.com*
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suryansh18saxena&style=flat&color=38BDF8"/>
-</p>
 
 <p align="center">
   <b>Building quietly. Improving daily.</b>

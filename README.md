@@ -36,19 +36,6 @@
 
 ---
 
-## Selected Projects
-
-**Anonymous Confession Board**  
-Minimal Django CRUD app with secure, anonymous interactions.
-
-**Startup Idea Validator**  
-Premium frontend UI with modern animations and validation flow.
-
-**College Dare App**  
-Dark-themed daily dare system with timers, auth, and progress tracking.
-
----
-
 ## Currently Focused On
 
 - Advanced Django & REST Framework  
@@ -61,20 +48,18 @@ Dark-themed daily dare system with timers, auth, and progress tracking.
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=suryansh18saxena&show_icons=true&theme=transparent&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansh18saxena&layout=compact&theme=transparent&hide_border=true" height="160"/>
 </p>
 
 ---
 
 ## Connect
 
-- LinkedIn → *https://www.linkedin.com/in/suryansh-saxena-004632304/?*
-- Portfolio → *add link*
 - Email → *Suryanshsaxena80@gmail.com*
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=38BDF8"/>
+  <img src="https://komarev.com/ghpvc/?username=suryansh18saxena&style=flat&color=38BDF8"/>
 </p>
 
 <p align="center">
